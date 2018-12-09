@@ -12,5 +12,5 @@ Nothing new to me.
 
 ## Intro to HTML and CSS
 ![Intro to HTML and CSS](/task_html_css_intro/intro_html.png)
-![HTML Academy Intro](/task_html_css_intro/academy_intro_html.png)
+![HTML Academy Intro](/task_html_css_intro/academy_into_html.png)
 
