@@ -17,3 +17,8 @@ Nothing new to me.
 ## Responsive Web Design
 ![Responsive Web Design](/task_responsive_web_design/resp-wd.png)
 ![Flex Froggy](/task_responsive_web_design/flex-frog.png)
+
+## JS Basics
+
+![Intro to JS](/task_js_basics/intro-js.png)
+![freecodecamp Algorithm Scripting Challenges](/task_js_basics/fcc-ias-1sthalf.png)
