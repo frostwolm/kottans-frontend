@@ -25,3 +25,5 @@ Nothing new to me.
 ## DOM
 ![JavaScript and the DOM](/task_js_dom/dom.png)
 ![freecodecamp Algorithm Scripting Challenges](/task_js_dom/fcc-ias-2ndhalf.png)
+[Document Object Model - practical task](https://github.com/frostwolm/js-dom)
+Reviewed and approved by @A-Ostrovnyy
