@@ -27,3 +27,7 @@ Nothing new to me.
 ![freecodecamp Algorithm Scripting Challenges](/task_js_dom/fcc-ias-2ndhalf.png)
 [Document Object Model - practical task](https://github.com/frostwolm/js-dom)
 Reviewed and approved by @A-Ostrovnyy
+
+## A Tiny JS World
+[js pre-OOP](https://github.com/frostwolm/a-tiny-JS-world)
+Reviewed and approved by @OleksiyRudenko
